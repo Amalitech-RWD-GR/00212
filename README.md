@@ -1,7 +1,5 @@
 
-# Huddle-Project
 
-=======
 # A huddle landing page with curved sections
 ![desktop_preview](./desktop-preview.jpg)
 Amalitech Portfolio project
