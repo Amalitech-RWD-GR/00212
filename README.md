@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Huddle-Project
 Amalitech Portfolio project
 
@@ -35,7 +35,7 @@ See hover states for all interactive elements on the page Acceptance Criteria De
 
 # LINKS
 <hr> 
-<a href="https://amalitech-rwd-gr.github.io/00212/hurd.html">LIVE PREVIEW<a>
+<a href="https://amalitech-rwd-gr.github.io/00212/index.html">LIVE PREVIEW<a>
 <hr>
 
 <!--# Desired outcome for desktop design
@@ -48,4 +48,4 @@ See hover states for all interactive elements on the page Acceptance Criteria De
 
 # Outcome
 ![Outcome]()-->
->>>>>>> c8b607e (images fix)
+
