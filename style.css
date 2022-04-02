@@ -11,6 +11,7 @@ body{
     margin: auto;
 }
 
+
 .header{
     position: absolute;
     top:40px;
@@ -112,7 +113,7 @@ body{
     display: flex;
 }
 
-/*   1.4k+ Com Formed    */
+/*   1.4k+ Com Formed  */  
 
 .commu{
     position: relative;
@@ -139,9 +140,9 @@ body{
     left:25px;
 }
 
-/*   1.4k+ Com Formed    */
+/*   1.4k+ Com Formed   */ 
 
-/*   2.7m+ messages    */
+/*   2.7m+ messages  */  
 
 .mess{
     position: absolute;
@@ -171,9 +172,9 @@ body{
     left:38px;
 }
 
-/*   2.7m+ messages    */
+/*   2.7m+ messages  */  
 
-/*   grow styles    */
+/*   grow styles   */ 
 
 
 #grow-main{
