@@ -183,7 +183,7 @@ body{
     position: absolute;
     left:0px;
     top:1550px;
-    background-image: url("/images/Grow\ Path\ 6.svg");
+    background-image: url("images/Grow\ Path\ 6.svg");
     background-repeat: no-repeat;
 }
 
@@ -266,7 +266,7 @@ body{
 .user-main{
     height:980px;
     width:1349px;
-    background-image: url("/images/Grow\ Path\ 6.svg");
+    background-image: url("images/Grow\ Path\ 6.svg");
     background-repeat: no-repeat;
     position: absolute;
     top:3000px;
@@ -335,7 +335,7 @@ body{
 #footer-main{
     height:720px;
     width:1349px;
-    background-image: url("/images/Footer\ background.svg");
+    background-image: url("images/Footer\ background.svg");
     background-repeat: no-repeat;
     background-size: 1368px 720px;
     position: absolute;
