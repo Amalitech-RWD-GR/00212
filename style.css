@@ -215,7 +215,7 @@ body{
     width:1345px;
     position: absolute;
     top:1650px;
-    background-image: url("/images/bg-section-top-desktop-1.svg");
+    background-image: url("images/bg-section-top-desktop-1.svg");
     background-repeat: no-repeat;
 
 }
@@ -233,7 +233,7 @@ body{
     width:1345px;
     position: absolute;
     top:2250px;
-    background-image: url("/images/bg-section-bottom-desktop-1.svg");
+    background-image: url("images/bg-section-bottom-desktop-1.svg");
     background-repeat: no-repeat;
 
 }
@@ -309,7 +309,7 @@ body{
     width:1345px;
     position: absolute;
     top:1656px;
-    background-image: url("/images/bg-section-top-desktop-2.svg");
+    background-image: url("images/bg-section-top-desktop-2.svg");
     background-repeat: no-repeat;
 }
 
@@ -328,7 +328,7 @@ body{
     width:1345px;
     position: absolute;
     top:2250px;
-    background-image: url("/images/bg-section-bottom-desktop-2.svg");
+    background-image: url("images/bg-section-bottom-desktop-2.svg");
     background-repeat: no-repeat;
 }
 
@@ -410,7 +410,7 @@ body{
     width: 1344px;
     height: 300px;
     background-repeat: no-repeat;
-    background-image: url("/images/Footer-background.svg");
+    background-image: url("images/Footer-background.svg");
     position:absolute;
     top:4320px;
 }
